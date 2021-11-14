@@ -1,1 +1,0 @@
-index: python "index.py"
